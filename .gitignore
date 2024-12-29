@@ -1,0 +1,14 @@
+# Environment variables file
+.env
+
+# Python cache directories
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+wheels/
+
+# Virtual environment
+venv/
